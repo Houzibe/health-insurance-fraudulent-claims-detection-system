@@ -1,0 +1,10 @@
+cpt_procedure_code
+billed_amount
+amount_bucket
+year
+month
+day_of_week
+day_of_month
+quarter
+icd10_diagnosis_code_freq
+claim_status_freq
