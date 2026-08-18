@@ -1,0 +1,6 @@
+,precision@100,recall@100,f1@100,auc_roc,auc_pr
+Autoencoder,0.12,0.1519,0.1341,0.7463,0.1059
+Isolation Forest,0.08,0.1013,0.0894,0.7241,0.0869
+Ensemble,0.06,0.0759,0.067,0.7401,0.0902
+One-Class SVM,0.05,0.0633,0.0559,0.6808,0.073
+Local Outlier Factor,0.02,0.0253,0.0223,0.5464,0.0443
